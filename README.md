@@ -115,6 +115,6 @@ The `models.ipynb` notebook implements two models to predict bank defaults using
 
 ## Contact
 
-Contact me at [robsonjmachado@gmail.com](mailto:robsonjmachado@gmail.com) or [LinkedIn](www.linkedin.com/in/robson-machado-j272913107) to discuss my data science and finance expertise!
+Contact me at [LinkedIn](www.linkedin.com/in/robson-machado-j272913107) to discuss my data science and finance expertise!
 
 
