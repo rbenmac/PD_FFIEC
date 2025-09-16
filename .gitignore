@@ -1,0 +1,19 @@
+# Data folders (large/sensitive - regenerate via scripts)
+data/
+
+# Reports (outputs - regenerate as needed)
+reports/
+
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store  # macOS hidden files
+
+# Jupyter notebooks (if you want to commit .ipynb, remove this)
+*.ipynb_checkpoints/
+
+# Large files or temp
+*.parquet
+*.zip
+*.csv  # If sensitive; otherwise, specify like data/raw/*.csv
