@@ -97,7 +97,7 @@ The `models.ipynb` notebook implements two models to predict bank defaults using
 
 ## Setup
 
-1. Clone: `git clone https://github.com/rbenmac/PD_FFIEC.git`
+1. Clone: `git clone https://github.com/robstats/PD_FFIEC.git`
 2. Set up env: `python -m venv .venv; source .venv/bin/activate`
 3. Install: `pip install pandas numpy pyarrow fastparquet tqdm matplotlib seaborn scikit-learn lightgbm`
 4. Add data to `data/raw/`.
